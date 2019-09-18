@@ -51,5 +51,3 @@ def add_s(string)
   end
 end
 end
-  
-  
